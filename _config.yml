@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
+
+# Theme for the website
+remote_theme: pages-themes/merlot@v0.2.0
+
+# Website main title
 title: My little Lemon
+
+# Simple description
 description: A simple lemon trying to learn cybersecurity things..
